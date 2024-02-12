@@ -4,4 +4,6 @@ A quick and dirty custom PCB I designed for use with a Raspberry Pi Pico. Wired 
 
 Indended for use with a slightly tweaked [Pico-Game-Controller](https://github.com/huantianad/Pico-Game-Controller). You may have to edit the encoder PPR and encoder inversion settings.
 
+Encoders are wired for Data, Data, +5V, GND; buttons are wired for Switch GPIO, LED GND, LED 5V, Switch GND.
+
 ![image](./images/image.png)
